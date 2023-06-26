@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="start">Start</string>
+    <string name="filtr">Filtr</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
